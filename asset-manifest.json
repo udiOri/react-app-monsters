@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-app-monsters/static/css/main.a24fc781.chunk.css",
+    "main.js": "/react-app-monsters/static/js/main.6f2a29a9.chunk.js",
+    "main.js.map": "/react-app-monsters/static/js/main.6f2a29a9.chunk.js.map",
+    "runtime-main.js": "/react-app-monsters/static/js/runtime-main.05f8130c.js",
+    "runtime-main.js.map": "/react-app-monsters/static/js/runtime-main.05f8130c.js.map",
+    "static/js/2.e494a0c8.chunk.js": "/react-app-monsters/static/js/2.e494a0c8.chunk.js",
+    "static/js/2.e494a0c8.chunk.js.map": "/react-app-monsters/static/js/2.e494a0c8.chunk.js.map",
+    "index.html": "/react-app-monsters/index.html",
+    "precache-manifest.ee1d6e4dc4a532e57c4e8989f9bf324b.js": "/react-app-monsters/precache-manifest.ee1d6e4dc4a532e57c4e8989f9bf324b.js",
+    "service-worker.js": "/react-app-monsters/service-worker.js",
+    "static/css/main.a24fc781.chunk.css.map": "/react-app-monsters/static/css/main.a24fc781.chunk.css.map",
+    "static/js/2.e494a0c8.chunk.js.LICENSE": "/react-app-monsters/static/js/2.e494a0c8.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05f8130c.js",
+    "static/js/2.e494a0c8.chunk.js",
+    "static/css/main.a24fc781.chunk.css",
+    "static/js/main.6f2a29a9.chunk.js"
+  ]
+}
